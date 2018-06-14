@@ -8,13 +8,14 @@ Latest Skype 8 has changed internally a lot from automation point of view;
   <li>Skype binary is now placed under PROGRAMFILES\Microsoft\Skype for Desktop\Skype.exe</li>
 </ul>
 
+# Compile & Interactions
 This package will be compiled under AutoIt and will do following;
 
 <ul>
   <li>Open Skype (if not already running)</li>
-  <li>Click either "User another account" or "Sign in with Microsoft"</li>
-  <li>Write Username & hit Enter</li>
-  <li>Write Password & hit Enter</li>
+  <li>Click either "Use another account" or "Sign in with Microsoft"</li>
+  <li>Write Username & hit Enter key</li>
+  <li>Write Password & hit Enter key</li>
 </ul>
 
 Details can be found here https://blog.teemya.com/2018/06/14/automate-skype-login-using-autoit/
